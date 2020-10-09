@@ -19,7 +19,7 @@ Puede clonarlo localmente con Git para comenzar.
 $ git clone https://github.com/DemocraciaEnRed/website
 ```
 
-### 
+### Formato de presentación
 
 1. Crear un fork de [https://github.com/DemocraciaEnRed/website](https://github.com/DemocraciaEnRed/website)
 2. Llevar a cabo los cambios. 
