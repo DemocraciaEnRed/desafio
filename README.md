@@ -19,6 +19,20 @@ Puede clonarlo localmente con Git para comenzar.
 $ git clone https://github.com/DemocraciaEnRed/website
 ```
 
+Pueden usar el siguiente `.env` en el root del proyecto
+
+```
+HOST=https://democraciaenred.org
+JWT_SECRET=LnmaI6Ezcw4oeSmO8Zl0GUe1POmJSRUIw9Yxl09p
+MAILGUN_API_KEY=thisIsASecret
+MAILGUN_DOMAIN=thisIsASecret
+MAILGUN_PUBLIC_KEY=thisIsASecret
+MEDIUM_URL=https://medium.com/multitudes
+PORT=3000
+YOUTUBE_API_KEY=thisIsASecret
+GOOGLE_UA=thisIsASecret
+```
+
 ### Formato de presentación
 
 1. Crear un fork de [https://github.com/DemocraciaEnRed/website](https://github.com/DemocraciaEnRed/website)
